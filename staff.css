@@ -1,0 +1,59 @@
+/*Jashanpreet Kaur
+SODV1201
+Software Development Diploma program.
+*/
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0fff0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #006400;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #006400;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #d3ffd3;
+    color: #006400;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #008000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #006400;
+}
+
+#footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #006400;
+}
